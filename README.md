@@ -1,4 +1,4 @@
-# Welcome to Botania: Rise of the Bots! 🌍🤖
+# Welcome to Bot World: Rise of the Bots! 🌍🤖
 
 In the year 2050, a catastrophic event occurred when Botania, a planet smaller than the Moon, veered off its orbit and collided with Earth. The impact resulted in a devastating doomsday scenario, wiping out 99.1% of humanity. The few remaining individuals merged with an extraterrestrial parasite known as "bots," granting them incredible powers. Approximately 90% of the survivors underwent this mutation, acquiring superhuman abilities.
 
@@ -51,7 +51,7 @@ In this thrilling post-apocalyptic world, you have the opportunity to train and 
 
 ## Community and Support 👥❓
 
-If you have any questions, encounter issues, or want to share your progress, join our vibrant community of bot trainers on our [Discord server](https://discord.gg/botania-rise) for assistance and collaboration.
+If you have any questions, encounter issues, or want to share your progress, join our vibrant community of bot trainers on our [Discord server](https://discord.gg/DYvVueS5Qc) for assistance and collaboration.
 
 ## Contributing 🤝🌱
 
