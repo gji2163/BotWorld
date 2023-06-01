@@ -10,7 +10,7 @@ In this thrilling post-apocalyptic world, you have the opportunity to train and 
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/your-username/Botania-Rise-of-the-Bots.git
+   git clone https://github.com/gji2163/BotWorld.git
    ```
 
 2. Install the necessary dependencies.
